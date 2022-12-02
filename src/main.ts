@@ -83,10 +83,18 @@ const crawler = new PlaywrightCrawler({
 
                     })
                     return businessData;
+                    
                 }
             )
             // Write the output to JSON
-            await fs.writeFileSync('./json_out/omaha-businesses.json',JSON.stringify({...businesses}))
+            function getRandomName() {
+                let timestamp = new Date().toISOString().replace(/[-:.]/g,"");  
+                let random = ("" + Math.random()).substring(2, 8); 
+                let random_number = timestamp+random;  
+                return random_number;
+                }
+            let json_name = getRandomFileName();
+            await fs.writeFileSync(`./json_out/${json_name}.json`,JSON.stringify({...businesses}))
         }
         
     }
