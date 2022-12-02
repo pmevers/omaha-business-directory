@@ -1,0 +1,120 @@
+{
+    "0": {
+        "name": "A+ Services",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/a-services-2093290",
+        "phone": "6235654725",
+        "address": "",
+        "website": "http://aplusservicesnow.com/",
+        "description": "",
+        "categories": [
+            "Business & Professional Services",
+            "Cleaning Services",
+            "Restoration"
+        ]
+    },
+    "1": {
+        "name": "Christenson Cleaning & Restoration",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/christenson-cleaning-restoration-1328431",
+        "phone": "4024637622",
+        "address": "",
+        "website": "http://www.christensonclean.com/",
+        "description": "Real People.  Real Clean.",
+        "categories": [
+            "Cleaning Services"
+        ]
+    },
+    "2": {
+        "name": "Jani-King of Omaha",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/jani-king-of-omaha-1663535",
+        "phone": "4029320514",
+        "address": "",
+        "website": "http://www.janiking.com/",
+        "description": "",
+        "categories": [
+            "Cleaning Services",
+            "Personal Services & Care",
+            "Cleaning",
+            "Cleaning Services"
+        ]
+    },
+    "3": {
+        "name": "Omaha's Rug Cleaning and Restoration",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/omaha-s-rug-cleaning-and-restoration-1428048",
+        "phone": "4022121275",
+        "address": "",
+        "website": "http://www.arearugcleaningomaha.com/",
+        "description": "",
+        "categories": [
+            "Cleaning Services",
+            "Cleaning Services",
+            "Dry Cleaners"
+        ]
+    },
+    "4": {
+        "name": "Phoenix Restoration Services",
+        "gmapsUrl": "https://www.google.com/maps/place/8550+South+137th+Circle%3b+Suite+4+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/phoenix-restoration-services-2071885",
+        "phone": "4029642232",
+        "address": "8550 South 137th Circle; Suite 4, Omaha, NE 68138",
+        "website": "http://phoenixnebraska.com/",
+        "description": "The Phoenix Team is here to help you rise up again after disaster!",
+        "categories": [
+            "Restoration",
+            "Building & Remodeling",
+            "Cleaning"
+        ]
+    },
+    "5": {
+        "name": "Premier Building Services, LLC",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/premier-building-services-llc-2488810",
+        "phone": "4029438121",
+        "address": "",
+        "website": "",
+        "description": "",
+        "categories": [
+            "Cleaning Services"
+        ]
+    },
+    "6": {
+        "name": "Shine of Omaha",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/shine-of-omaha-1500682",
+        "phone": "4028000049",
+        "address": "",
+        "website": "https://www.shine-windowcleaning.com/",
+        "description": "Let Your Windows Shine!!",
+        "categories": [
+            "Cleaning Services"
+        ]
+    },
+    "7": {
+        "name": "Smart Clean Janitorial",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/smart-clean-janitorial-2319926",
+        "phone": "4026012065",
+        "address": "",
+        "website": "https://www.facebook.com/smartcleanjanitorial",
+        "description": "",
+        "categories": [
+            "Business Support Services",
+            "Cleaning Services"
+        ]
+    },
+    "8": {
+        "name": "The Office Cleaners",
+        "gmapsUrl": "https://www.google.com/maps/place/13425+A+Street+Suite+1+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/the-office-cleaners-586322",
+        "phone": "4026807838",
+        "address": "13425 A Street Suite 1, Omaha, NE 68144",
+        "website": "http://www.the-office-cleaners.com/",
+        "description": "Disinfecting Misting Services for Omaha and Lincoln. COVID strong!!",
+        "categories": [
+            "Cleaning Services"
+        ]
+    }
+}

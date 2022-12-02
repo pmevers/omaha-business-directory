@@ -1,0 +1,67 @@
+{
+    "0": {
+        "name": "A Tail of 2 Sitters",
+        "gmapsUrl": "https://www.google.com/maps/place/2628+Grant+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/a-tail-of-2-sitters-574368",
+        "phone": "4026511761",
+        "address": "2628 Grant Street, Omaha, NE 68111",
+        "website": "https://www.facebook.com/pages/category/Pet-Service/A-Tail-of-2-Sitters-223663927652928/",
+        "description": "",
+        "categories": [
+            "Pets",
+            "Pets & Veterinary"
+        ]
+    },
+    "1": {
+        "name": "Nebraska Humane Society",
+        "gmapsUrl": "https://www.google.com/maps/place/8929+Fort+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/nebraska-humane-society-583850",
+        "phone": "4024447800",
+        "address": "8929 Fort Street, Omaha, NE 68134-2827",
+        "website": "http://www.nehumanesociety.org/",
+        "description": "",
+        "categories": [
+            "Pets",
+            "Pets & Veterinary"
+        ]
+    },
+    "2": {
+        "name": "Pet Supplies Plus",
+        "gmapsUrl": "https://www.google.com/maps/place/13459+West+Center+Road+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/pet-supplies-plus-2363334",
+        "phone": "5312132738",
+        "address": "13459 West Center Road, Omaha, NE 68144",
+        "website": "http://www.petsuppliesplus.com/store/ne/omaha/4440-omaha---w-center-rd/4440",
+        "description": "Pet supplies grooming self-wash pets cats dogs small pets adoption",
+        "categories": [
+            "",
+            "Pets",
+            "Pets & Veterinary"
+        ]
+    },
+    "3": {
+        "name": "PetFriendly",
+        "gmapsUrl": "https://www.google.com/maps/place/8616+G+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/petfriendly-1733071",
+        "phone": "4022273320",
+        "address": "8616 G Street, Omaha, NE 68127",
+        "website": "http://petfriendlybox.com/",
+        "description": "We are dog people. We are cat people.",
+        "categories": [
+            "Pets & Veterinary",
+            "Shopping & Specialty Retail"
+        ]
+    },
+    "4": {
+        "name": "VCA Animal Medical Center of Omaha",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/vca-animal-medical-center-of-omaha-1492249",
+        "phone": "4025581522",
+        "address": "",
+        "website": "https://vcahospitals.com/animal-medical-omaha",
+        "description": "Caring for pets and their people, too!!",
+        "categories": [
+            "Veterinarians"
+        ]
+    }
+}

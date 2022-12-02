@@ -1,0 +1,202 @@
+{
+    "0": {
+        "name": "Education with an Edge",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/education-with-an-edge-2122755",
+        "phone": "",
+        "address": "",
+        "website": "http://www.jacqellelane.com/",
+        "description": "",
+        "categories": [
+            "Education",
+            "Education - K - 12",
+            "Elected Officials"
+        ]
+    },
+    "1": {
+        "name": "Genuine Learning Institute",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/genuine-learning-institute-2336862",
+        "phone": "4024018736",
+        "address": "",
+        "website": "https://www.genuinelearninginstitute.com/",
+        "description": "Adult Education, Online ESL and GED classes, English as Second Language, ",
+        "categories": [
+            "Education",
+            "Government",
+            "Education - K - 12",
+            "Government & Education"
+        ]
+    },
+    "2": {
+        "name": "Iqbiometrix, Inc.",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/iqbiometrix-inc-1376053",
+        "phone": "7134091091",
+        "address": "",
+        "website": "http://www.facialcomposites.com/",
+        "description": "Facial Composite Software",
+        "categories": [
+            "Business & Professional Services",
+            "Education",
+            "Security"
+        ]
+    },
+    "3": {
+        "name": "My Chat Company",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/my-chat-company-1856146",
+        "phone": "4023981384",
+        "address": "",
+        "website": "https://www.mychatcompany.com/",
+        "description": "",
+        "categories": [
+            "Education",
+            "Nonprofit - Health & Well Being",
+            "Professional Development & Training"
+        ]
+    },
+    "4": {
+        "name": "North 24th Street Business Improvement District Association",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/north-24th-street-business-improvement-district-association-2251084",
+        "phone": "4025758164",
+        "address": "",
+        "website": "https://north24thstreetbid.com/",
+        "description": "",
+        "categories": [
+            "Government",
+            "Nonprofit - Community"
+        ]
+    },
+    "5": {
+        "name": "One Heart Project",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/one-heart-project-2172247",
+        "phone": "4025789452",
+        "address": "",
+        "website": "http://www.oneheart.com/",
+        "description": "",
+        "categories": [
+            "Education",
+            "Nonprofit - Children",
+            "Nonprofit - Health & Well Being"
+        ]
+    },
+    "6": {
+        "name": "Rabble Mill",
+        "gmapsUrl": "https://www.google.com/maps/place/725+North+14th+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/rabble-mill-1950544",
+        "phone": "4022161354",
+        "address": "725 North 14th Street, Omaha, NE 68102",
+        "website": "https://rabblemill.org/",
+        "description": "",
+        "categories": [
+            "Family, Community & Nonprofit",
+            "Nonprofit - Community",
+            "Nonprofit - Health & Well Being",
+            "Art Galleries & Museums",
+            "Arts, Culture & Entertainment",
+            "Associations and Chambers of Commerce",
+            "Digital Media",
+            "Education - Colleges & Universities",
+            "Education",
+            "Education - K - 12",
+            "Entertainment",
+            "Nonprofit - Children",
+            "Nonprofit - Family"
+        ]
+    },
+    "7": {
+        "name": "Reliabilityweb.com",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/reliabilityweb-com-1428047",
+        "phone": "2398345611",
+        "address": "",
+        "website": "http://reliabilityweb.com/",
+        "description": "",
+        "categories": [
+            "Business & Professional Services",
+            "Education",
+            "Professional Development & Training"
+        ]
+    },
+    "8": {
+        "name": "Sand Consulting",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/sand-consulting-2276149",
+        "phone": "6052129374",
+        "address": "",
+        "website": "https://sandconsulting.org/contact/",
+        "description": "",
+        "categories": [
+            "Consultants",
+            "Business & Professional Services",
+            "Business & Professional Services",
+            "Education - Colleges & Universities",
+            "Education",
+            "Health Care",
+            "Health Care",
+            "Hospitals & Clinics",
+            "Physicians",
+            "Rehabilitation & Hospice"
+        ]
+    },
+    "9": {
+        "name": "The Music in Motion",
+        "gmapsUrl": "https://www.google.com/maps/place/21991+Brookside+Avenue+%2c+Elkhorn+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/the-music-in-motion-1849765",
+        "phone": "4027797393",
+        "address": "21991 Brookside Avenue, Elkhorn, NE 68022",
+        "website": "https://themusicinmotion.com/",
+        "description": "",
+        "categories": [
+            "Arts, Culture & Entertainment",
+            "Education - K - 12",
+            "Government",
+            "Government & Education",
+            "Government Agencies",
+            "Government, Education & Individuals"
+        ]
+    },
+    "10": {
+        "name": "USACE, Omaha District",
+        "gmapsUrl": "https://www.google.com/maps/place/1616+Capitol+Avenue+Suite+9000+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/usace-omaha-district-587966",
+        "phone": "4029952004",
+        "address": "1616 Capitol Avenue Suite 9000, Omaha, NE 68102",
+        "website": "https://www.nwo.usace.army.mil/",
+        "description": "",
+        "categories": [
+            "Government Agencies",
+            "Government & Education",
+            "Architecture",
+            "Attorneys",
+            "Business & Professional Services",
+            "Computers & Telecommunications",
+            "Construction & Contractors",
+            "Construction & Contractors",
+            "Construction Equipment & Contractors",
+            "Construction Management",
+            "Consultants",
+            "Contractors",
+            "Electricians & Electrical Contractors",
+            "Engineering",
+            "Government",
+            "Government Relations/Public Affairs"
+        ]
+    },
+    "11": {
+        "name": "Yellow Brick Road Early Childhood Development Center",
+        "gmapsUrl": "https://www.google.com/maps/place/16909+Blondo+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/yellow-brick-road-early-childhood-development-center-2066139",
+        "phone": "4028840888",
+        "address": "16909 Blondo Street, Omaha, NE 68116",
+        "website": "http://www.ybrecdc.org/",
+        "description": "Yellow Brick Road, operated by \"home-grown\" owners, has brought the highly revered program to the city of Omaha! ",
+        "categories": [
+            "Education",
+            "Childcare"
+        ]
+    }
+}

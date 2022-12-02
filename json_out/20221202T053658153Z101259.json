@@ -1,0 +1,34 @@
+{
+    "0": {
+        "name": "King of Kings",
+        "gmapsUrl": "https://www.google.com/maps/place/11615+I+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/king-of-kings-1730731",
+        "phone": "4023336464",
+        "address": "11615 I Street, Omaha, NE 68137",
+        "website": "http://www.kingofkings.org/",
+        "description": "At King of Kings, We Transform Lives",
+        "categories": [
+            "Nonprofit - Community",
+            "Family, Community & Nonprofit",
+            "Churches"
+        ]
+    },
+    "1": {
+        "name": "Urban Abbey",
+        "gmapsUrl": "https://www.google.com/maps/place/1026+Jackson+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/urban-abbey-581541",
+        "phone": "4028987600",
+        "address": "1026 Jackson Street, Omaha, NE 68102-2823",
+        "website": "https://www.theurbanabbey.org/",
+        "description": "",
+        "categories": [
+            "Religious",
+            "Family, Community & Nonprofit",
+            "Churches",
+            "Coffee Shops",
+            "Nonprofit - Community",
+            "Religious Organizations",
+            "Shopping & Specialty Retail"
+        ]
+    }
+}

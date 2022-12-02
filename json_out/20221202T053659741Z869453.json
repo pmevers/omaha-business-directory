@@ -1,0 +1,820 @@
+{
+    "0": {
+        "name": "88 Tactical Group, LLC",
+        "gmapsUrl": "https://www.google.com/maps/place/15350+Shepard+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/88-tactical-group-llc-585862",
+        "phone": "4029337171",
+        "address": "15350 Shepard Street, Omaha, NE 68138",
+        "website": "http://www.88tactical.com/",
+        "description": "",
+        "categories": [
+            "Country Clubs & Golf Courses",
+            "Fitness, Health & Recreation",
+            "Restaurants, Food & Beverages",
+            "Sports & Recreation"
+        ]
+    },
+    "1": {
+        "name": "Athletes' Training Center Sports Performance & Physical Therapy",
+        "gmapsUrl": "https://www.google.com/maps/place/13809+Industrial+Road+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/athletes-training-center-sports-performance-physical-therapy-575907",
+        "phone": "4029327111",
+        "address": "13809 Industrial Road, Omaha, NE 68137",
+        "website": "https://athletestrainingcenter.com/",
+        "description": "",
+        "categories": [
+            "Fitness, Health & Recreation",
+            "Sports & Recreation"
+        ]
+    },
+    "2": {
+        "name": "BeAmbi & Company, LLC (Dance and Creative Studio)",
+        "gmapsUrl": "https://www.google.com/maps/place/5801+North+90th+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/beambi-company-llc-dance-and-creative-studio-2044025",
+        "phone": "4023033121",
+        "address": "5801 North 90th Street, Omaha, NE 68134",
+        "website": "http://www.beambico.com/",
+        "description": "",
+        "categories": [
+            "Arts, Crafts & Hobbies",
+            "Dance",
+            "Photographers"
+        ]
+    },
+    "3": {
+        "name": "Big O Fitness",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/big-o-fitness-2176633",
+        "phone": "4029093660",
+        "address": "",
+        "website": "http://www.bigomahafitness.com/",
+        "description": "",
+        "categories": [
+            "Fitness, Health & Recreation",
+            "Fitness, Health & Recreation"
+        ]
+    },
+    "4": {
+        "name": "Body Basics Exercise Equipment",
+        "gmapsUrl": "https://www.google.com/maps/place/10912+Prairie+Brook+Road+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/body-basics-exercise-equipment-577206",
+        "phone": "4023978866",
+        "address": "10912 Prairie Brook Road, Omaha, NE 68144",
+        "website": "http://www.bodybasics.com/",
+        "description": "",
+        "categories": [
+            "Sporting Goods",
+            "Sports & Recreation"
+        ]
+    },
+    "5": {
+        "name": "Champions Run",
+        "gmapsUrl": "https://www.google.com/maps/place/13800+Eagle+Run+Drive+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/champions-run-586694",
+        "phone": "4024988900",
+        "address": "13800 Eagle Run Drive, Omaha, NE 68164-5412",
+        "website": "http://www.championsomaha.com/",
+        "description": "",
+        "categories": [
+            "Country Clubs & Golf Courses",
+            "Sports & Recreation"
+        ]
+    },
+    "6": {
+        "name": "CHI Health Lakeside Wellness Center",
+        "gmapsUrl": "https://www.google.com/maps/place/16940+Lakeside+Hills+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/chi-health-lakeside-wellness-center-580625",
+        "phone": "4027585700",
+        "address": "16940 Lakeside Hills, Omaha, NE 68130",
+        "website": "http://www.alegent.org/",
+        "description": "",
+        "categories": [
+            "Fitness, Health & Recreation",
+            "Sports & Recreation"
+        ]
+    },
+    "7": {
+        "name": "Community Health Development Partners",
+        "gmapsUrl": "https://www.google.com/maps/place/4727+Center+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/community-health-development-partners-2081997",
+        "phone": "4025902138",
+        "address": "4727 Center Street, Omaha, NE 68106",
+        "website": "https://www.theintersections.com/",
+        "description": "",
+        "categories": [
+            "Sports & Recreation",
+            "Family, Community & Nonprofit",
+            "Fitness, Health & Recreation",
+            "Health Care"
+        ]
+    },
+    "8": {
+        "name": "Craft Axe",
+        "gmapsUrl": "https://www.google.com/maps/place/2562+Leavenworth+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/craft-axe-834849",
+        "phone": "4023138240",
+        "address": "2562 Leavenworth Street, Omaha, NE 68105",
+        "website": "https://craftaxethrowing.com/",
+        "description": "Drinking and Axe Throwing - oh my!",
+        "categories": [
+            "Bars",
+            "Sports & Recreation"
+        ]
+    },
+    "9": {
+        "name": "Elite Cheer Inc.",
+        "gmapsUrl": "https://www.google.com/maps/place/3405+Oak+View+Drive+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/elite-cheer-inc-583227",
+        "phone": "4025370855",
+        "address": "3405 Oak View Drive, Omaha, NE 68144",
+        "website": "http://www.elitecheer.com/",
+        "description": "Tumbling Classes for Beginners through level 6!",
+        "categories": [
+            "Fitness, Health & Recreation",
+            "Sports & Recreation"
+        ]
+    },
+    "10": {
+        "name": "Elkhorn Athletic Association",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/elkhorn-athletic-association-795766",
+        "phone": "9175384810",
+        "address": "",
+        "website": "https://www.elkhornathletics.org/",
+        "description": "Stronger Together for YOU!",
+        "categories": [
+            "Sports & Recreation",
+            "Nonprofit - Children"
+        ]
+    },
+    "11": {
+        "name": "Field Club of Omaha",
+        "gmapsUrl": "https://www.google.com/maps/place/3615+Woolworth+Avenue+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/field-club-of-omaha-578945",
+        "phone": "4023456343",
+        "address": "3615 Woolworth Avenue, Omaha, NE 68105",
+        "website": "http://www.fcomaha.com/",
+        "description": "",
+        "categories": [
+            "Country Clubs & Golf Courses"
+        ]
+    },
+    "12": {
+        "name": "Golf USA",
+        "gmapsUrl": "https://www.google.com/maps/place/4207+South+120th+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/golf-usa-580067",
+        "phone": "4023349303",
+        "address": "4207 South 120th Street, Omaha, NE 68137-1245",
+        "website": "https://www.golfusaomaha.com/",
+        "description": "",
+        "categories": [
+            "Sporting Goods",
+            "Sports & Recreation"
+        ]
+    },
+    "13": {
+        "name": "Grace Unchained Studio",
+        "gmapsUrl": "https://www.google.com/maps/place/8527+Park+Drive+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/grace-unchained-studio-578593",
+        "phone": "4028174400",
+        "address": "8527 Park Drive, Omaha, NE 68127-3621",
+        "website": "http://www.graceunchained.com/",
+        "description": "Adult and youth dance classes in a variety of styles of dance.",
+        "categories": [
+            "Theaters & Music Venues",
+            "Arts, Culture & Entertainment",
+            "Dance"
+        ]
+    },
+    "14": {
+        "name": "Harmony Med Spa",
+        "gmapsUrl": "https://www.google.com/maps/place/6750+Mercy+Road+Suite+4+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/harmony-med-spa-2124474",
+        "phone": "4029156659",
+        "address": "6750 Mercy Road Suite 4, Omaha, NE 68106",
+        "website": "https://harmonymedspa.net/",
+        "description": "",
+        "categories": [
+            "Fitness, Health & Recreation",
+            "Health Care",
+            "Salons & Spas",
+            "Nutrition & Supplements"
+        ]
+    },
+    "15": {
+        "name": "High Octane Wellness",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/high-octane-wellness-1906927",
+        "phone": "4026908375",
+        "address": "",
+        "website": "https://www.facebook.com/highoctanewellness/",
+        "description": "Business culture, personal growth and development, accountability, business coaching",
+        "categories": [
+            "Fitness, Health & Recreation",
+            "Professional Development & Training"
+        ]
+    },
+    "16": {
+        "name": "HoopRank",
+        "gmapsUrl": "https://www.google.com/maps/place/3223+North+45th+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/hooprank-2178301",
+        "phone": "4025982019",
+        "address": "3223 North 45th Street, Omaha, NE 68104",
+        "website": "http://www.hooprank.com/",
+        "description": "Basketball Training and Development",
+        "categories": [
+            "Sports & Recreation"
+        ]
+    },
+    "17": {
+        "name": "Horizon Rehabilitation Centers Physical Therapy",
+        "gmapsUrl": "https://www.google.com/maps/place/825+North+90th+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/horizon-rehabilitation-centers-physical-therapy-662450",
+        "phone": "",
+        "address": "825 North 90th Street, Omaha, NE 68114",
+        "website": "http://www.horizonrehab.com/",
+        "description": "",
+        "categories": [
+            "Health Care",
+            "Fitness, Health & Recreation",
+            "Health Care",
+            "Physicians",
+            "Rehabilitation & Hospice"
+        ]
+    },
+    "18": {
+        "name": "HOTWORX Omaha Midtown",
+        "gmapsUrl": "https://www.google.com/maps/place/7900+West+Dodge+Road+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/hotworx-omaha-midtown-1229591",
+        "phone": "5318001131",
+        "address": "7900 West Dodge Road, Omaha, NE 68114",
+        "website": "https://hotworx.net/studio/omaha-midtown/",
+        "description": "24 Hour Access!!",
+        "categories": [
+            "Fitness, Health & Recreation",
+            "Fitness, Health & Recreation"
+        ]
+    },
+    "19": {
+        "name": "Indian Creek Golf Course",
+        "gmapsUrl": "https://www.google.com/maps/place/3825+North+202nd+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/indian-creek-golf-course-573331",
+        "phone": "4022890900",
+        "address": "3825 North 202nd Street, Omaha, NE 68022",
+        "website": "http://www.golfatindiancreek.com/",
+        "description": "37 acres of fairways waiting for you!",
+        "categories": [
+            "Country Clubs & Golf Courses",
+            "Sports & Recreation"
+        ]
+    },
+    "20": {
+        "name": "Jacobs",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/jacobs-581104",
+        "phone": "4026791662",
+        "address": "",
+        "website": "http://www.jacobs.com/",
+        "description": "",
+        "categories": [
+            "Engineering",
+            "Construction & Contractors",
+            "Consultants",
+            "Air Transportation & Services",
+            "Architecture",
+            "Building & Remodeling",
+            "Business & Professional Services",
+            "Business Support Services",
+            "Construction Management",
+            "Contractors",
+            "Energy",
+            "Exterior & Roofing",
+            "Facility Management Services",
+            "HVAC",
+            "Parks/Sports Facilities",
+            "Professional Consulting",
+            "Rail Transportation",
+            "Restoration",
+            "Security",
+            "Transit",
+            "Utilities",
+            "Waste",
+            "Water Treatment Services"
+        ]
+    },
+    "21": {
+        "name": "Jewish Federation of Omaha",
+        "gmapsUrl": "https://www.google.com/maps/place/333+South+132nd+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/jewish-federation-of-omaha-581282",
+        "phone": "4023348200",
+        "address": "333 South 132nd Street, Omaha, NE 68154",
+        "website": "http://www.jewishomaha.org/",
+        "description": "Everyone is Welcome!",
+        "categories": [
+            "Nonprofit - Community",
+            "Family, Community & Nonprofit",
+            "Art Galleries & Museums",
+            "Arts, Culture & Entertainment",
+            "Counseling & Mental Health",
+            "Entertainment",
+            "Event Venues",
+            "Festivals & Special Events",
+            "Fitness, Health & Recreation",
+            "Nonprofit - Children",
+            "Nonprofit - Family",
+            "Nonprofit - Health & Well Being",
+            "Nursing Home, Assisted & Independent Living",
+            "Parks/Sports Facilities",
+            "Rehabilitation & Hospice",
+            "Childcare",
+            "Dance"
+        ]
+    },
+    "22": {
+        "name": "Killerspin",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/killerspin-1228882",
+        "phone": "",
+        "address": "",
+        "website": "http://www.killerspin.com/",
+        "description": "We Make Table Tennis Beautiful!",
+        "categories": [
+            "Human Resources",
+            "Sports & Recreation"
+        ]
+    },
+    "23": {
+        "name": "Laff Breaks",
+        "gmapsUrl": "https://www.google.com/maps/place/3830+North+108th+Plaza+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/laff-breaks-2003780",
+        "phone": "402235LAFF5233",
+        "address": "3830 North 108th Plaza, Omaha, NE 68164",
+        "website": "http://www.laffbreaks.com/",
+        "description": "It's always BREAK Time at Laff Breaks!",
+        "categories": [
+            "Entertainment",
+            "Event Venues",
+            "Sports & Recreation"
+        ]
+    },
+    "24": {
+        "name": "Landscapes Golf Group",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/landscapes-golf-group-1713931",
+        "phone": "4024236653",
+        "address": "",
+        "website": "http://www.landscapesunlimited.com/",
+        "description": "",
+        "categories": [
+            "Country Clubs & Golf Courses",
+            "Sports & Recreation"
+        ]
+    },
+    "25": {
+        "name": "Live Hydration Spa - Old Market",
+        "gmapsUrl": "https://www.google.com/maps/place/1001+Farnam+Street+Suite+1E+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/live-hydration-spa-old-market-2132788",
+        "phone": "5319993030",
+        "address": "1001 Farnam Street Suite 1E, Omaha, NE 68102",
+        "website": "https://www.facebook.com/LIVEHydrationSpaOldMarket/",
+        "description": "",
+        "categories": [
+            "Fitness, Health & Recreation",
+            "Salons & Spas"
+        ]
+    },
+    "26": {
+        "name": "Miracle Hill Golf and Tennis Club",
+        "gmapsUrl": "https://www.google.com/maps/place/1401+North+120th+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/miracle-hill-golf-and-tennis-club-580817",
+        "phone": "4024980220",
+        "address": "1401 North 120th Street, Omaha, NE 68154",
+        "website": "http://www.miraclehillgolf.com/",
+        "description": "",
+        "categories": [
+            "Country Clubs & Golf Courses",
+            "Sports & Recreation"
+        ]
+    },
+    "27": {
+        "name": "National Football Association, LLC",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/national-football-association-llc-2431795",
+        "phone": "7125920676",
+        "address": "",
+        "website": "http://nfanow.net/",
+        "description": "",
+        "categories": [
+            "Sports & Recreation",
+            "Professional Sports"
+        ]
+    },
+    "28": {
+        "name": "Odeys Inc.",
+        "gmapsUrl": "https://www.google.com/maps/place/911+South+20th+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/odeys-inc-580970",
+        "phone": "4025976296",
+        "address": "911 South 20th Street, Omaha, NE 68108",
+        "website": "http://odeys.com/",
+        "description": "",
+        "categories": [
+            "Sporting Goods",
+            "Sports & Recreation"
+        ]
+    },
+    "29": {
+        "name": "Omaha Country Club",
+        "gmapsUrl": "https://www.google.com/maps/place/6900+Country+Club+Road+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/omaha-country-club-587249",
+        "phone": "4025717777",
+        "address": "6900 Country Club Road, Omaha, NE 68152-2018",
+        "website": "http://www.omahacc.org/",
+        "description": "",
+        "categories": [
+            "Country Clubs & Golf Courses",
+            "Sports & Recreation"
+        ]
+    },
+    "30": {
+        "name": "Omaha Equestrian Foundation",
+        "gmapsUrl": "https://www.google.com/maps/place/1004+Farnam+Street+Suite+100+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/omaha-equestrian-foundation-575713",
+        "phone": "4029303079",
+        "address": "1004 Farnam Street Suite 100, Omaha, NE 68102",
+        "website": "https://www.internationalomaha.com/",
+        "description": "",
+        "categories": [
+            "Nonprofit - Children",
+            "Sports & Recreation"
+        ]
+    },
+    "31": {
+        "name": "Omaha Lancers Hockey Club",
+        "gmapsUrl": "https://www.google.com/maps/place/7300+Q+Street+%2c+Ralston+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/omaha-lancers-hockey-club-587718",
+        "phone": "4023447825",
+        "address": "7300 Q Street, Ralston, NE 68127",
+        "website": "http://www.lancers.com/",
+        "description": "The Omaha Lancers are Omaha's only Tier 1 Junior Hockey Team playing at Liberty First Credit Union Arena.",
+        "categories": [
+            "Parks/Sports Facilities",
+            "Sports & Recreation"
+        ]
+    },
+    "32": {
+        "name": "Omaha Sports Academy",
+        "gmapsUrl": "https://www.google.com/maps/place/21015+Cumberland+Drive+%2c+Elkhorn+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/omaha-sports-academy-587393",
+        "phone": "4025041222",
+        "address": "21015 Cumberland Drive, Elkhorn, NE 68022",
+        "website": "http://www.omahasportsacademy.com/",
+        "description": "",
+        "categories": [
+            "Fitness, Health & Recreation",
+            "Sports & Recreation"
+        ]
+    },
+    "33": {
+        "name": "Omaha Sports Commission",
+        "gmapsUrl": "https://www.google.com/maps/place/PO+Box+744+%2c+Boys+Town+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/omaha-sports-commission-580815",
+        "phone": "4025022216",
+        "address": "PO Box 744, Boys Town, NE 68010",
+        "website": "http://www.omahasports.org/",
+        "description": "Enriching Omaha Through Sport",
+        "categories": [
+            "Nonprofit - Community",
+            "Family, Community & Nonprofit",
+            "Sports & Recreation"
+        ]
+    },
+    "34": {
+        "name": "Omaha Storm Chasers",
+        "gmapsUrl": "https://www.google.com/maps/place/12356+Ballpark+Way+%2c+Papillion+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/omaha-storm-chasers-577470",
+        "phone": "4027385100",
+        "address": "12356 Ballpark Way, Papillion, NE 68046-4817",
+        "website": "http://www.omahastormchasers.com/",
+        "description": "Nebraska's only Major League affiliated sports team.",
+        "categories": [
+            "Entertainment",
+            "Arts, Culture & Entertainment",
+            "Professional Sports"
+        ]
+    },
+    "35": {
+        "name": "Omaha Suburban Athletic Association",
+        "gmapsUrl": "https://www.google.com/maps/place/2937+South+120th+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/omaha-suburban-athletic-association-581933",
+        "phone": "4026978759",
+        "address": "2937 South 120th Street, Omaha, NE 68144",
+        "website": "https://www.omahasuburban.com/",
+        "description": "",
+        "categories": [
+            "Fitness, Health & Recreation",
+            "Sports & Recreation"
+        ]
+    },
+    "36": {
+        "name": "Pedego Electric Bikes - West Omaha",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/pedego-electric-bikes-west-omaha-2172167",
+        "phone": "4029051401",
+        "address": "",
+        "website": "http://pedegowestomaha.com/",
+        "description": "",
+        "categories": [
+            "Sporting Goods",
+            "Sports & Recreation"
+        ]
+    },
+    "37": {
+        "name": "Pinnacle Bank Championship",
+        "gmapsUrl": "https://www.google.com/maps/place/13131+West+Dodge+Road+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/pinnacle-bank-championship-579396",
+        "phone": "4029912525",
+        "address": "13131 West Dodge Road, Omaha, NE 68154",
+        "website": "http://thepinnaclebankchampionship.com/",
+        "description": "",
+        "categories": [
+            "Country Clubs & Golf Courses",
+            "Sports & Recreation"
+        ]
+    },
+    "38": {
+        "name": "Pixel Bird LLC",
+        "gmapsUrl": "https://www.google.com/maps/place/1901+Howard+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/pixel-bird-llc-1890358",
+        "phone": "4022183233",
+        "address": "1901 Howard Street, Omaha, NE 68102",
+        "website": "http://www.pxlbrd.com/",
+        "description": "Terrance Crawford Exclusive Collection! ",
+        "categories": [
+            "Consultants",
+            "Entertainment",
+            "Sports & Recreation"
+        ]
+    },
+    "39": {
+        "name": "Planet Fitness - North 90th",
+        "gmapsUrl": "https://www.google.com/maps/place/5565+North+90th+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/planet-fitness-north-90th-574581",
+        "phone": "4026142400",
+        "address": "5565 North 90th Street, Omaha, NE 68134",
+        "website": "http://www.planetfitness.com/",
+        "description": "",
+        "categories": [
+            "Fitness, Health & Recreation",
+            "Sports & Recreation"
+        ]
+    },
+    "40": {
+        "name": "Planet Fitness - South 36th",
+        "gmapsUrl": "https://www.google.com/maps/place/5035+South+36th+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/planet-fitness-south-36th-575653",
+        "phone": "4029323737",
+        "address": "5035 South 36th Street, Omaha, NE 68107",
+        "website": "http://www.planetfitness.com/",
+        "description": "",
+        "categories": [
+            "Fitness, Health & Recreation",
+            "Sports & Recreation"
+        ]
+    },
+    "41": {
+        "name": "Restore Hyper Wellness",
+        "gmapsUrl": "https://www.google.com/maps/place/17305+Davenport+Street+Suite+%23109+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/restore-hyper-wellness-1899728",
+        "phone": "4029151358",
+        "address": "17305 Davenport Street Suite #109, Omaha, NE 68118",
+        "website": "https://restore.com/locations/west-omaha-ne/",
+        "description": "Southwest end of Village Pointe!",
+        "categories": [
+            "Health Care",
+            "Fitness, Health & Recreation"
+        ]
+    },
+    "42": {
+        "name": "Scheels All Sports",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/scheels-all-sports-586135",
+        "phone": "4022895666",
+        "address": "",
+        "website": "http://www.scheelssports.com/",
+        "description": "",
+        "categories": [
+            "Sporting Goods",
+            "Sports & Recreation"
+        ]
+    },
+    "43": {
+        "name": "Shadow Ridge Country Club",
+        "gmapsUrl": "https://www.google.com/maps/place/1501+South+188th+Plaza+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/shadow-ridge-country-club-580982",
+        "phone": "4023334020",
+        "address": "1501 South 188th Plaza, Omaha, NE 68130-2822",
+        "website": "http://www.shadowridgecountryclub.com/",
+        "description": "Shadow Ridge Country Club is a west Omaha Golf Course! ",
+        "categories": [
+            "Country Clubs & Golf Courses",
+            "Sports & Recreation"
+        ]
+    },
+    "44": {
+        "name": "SheMate",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/shemate-2014807",
+        "phone": "4022812419",
+        "address": "",
+        "website": "https://www.shemate.club/",
+        "description": "SheMate connects women in sports with the youth sports industry.",
+        "categories": [
+            "Sports & Recreation"
+        ]
+    },
+    "45": {
+        "name": "Smitty's Performing Arts Center",
+        "gmapsUrl": "https://www.google.com/maps/place/2410+South+140th+Circle+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/smitty-s-performing-arts-center-2122363",
+        "phone": "4029996368",
+        "address": "2410 South 140th Circle, Omaha, NE 68144",
+        "website": "http://www.smittyspac-omaha.com/",
+        "description": "Founded in 2006 our mission and passion is to instill in children of all ages a love of the dance, aerial skills and acro while providing quality instruction.",
+        "categories": [
+            "Dance",
+            "Entertainment"
+        ]
+    },
+    "46": {
+        "name": "Spenga SW Omaha",
+        "gmapsUrl": "https://www.google.com/maps/place/19502+Frances+Circle+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/spenga-sw-omaha-843521",
+        "phone": "4029484700",
+        "address": "19502 Frances Circle, Omaha, NE 68130",
+        "website": "https://southwestomaha.spenga.com/",
+        "description": "Best Workout Ever: 20/20/20 Spin/Strength/Yoga",
+        "categories": [
+            "",
+            "Fitness, Health & Recreation"
+        ]
+    },
+    "47": {
+        "name": "Stone Creek Golf Course",
+        "gmapsUrl": "https://www.google.com/maps/place/6220+North+160th+Avenue+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/stone-creek-golf-course-583746",
+        "phone": "4029659000",
+        "address": "6220 North 160th Avenue, Omaha, NE 68116-4018",
+        "website": "https://www.golfstonecreek.com/",
+        "description": "27 hole Championship Course!",
+        "categories": [
+            "Country Clubs & Golf Courses"
+        ]
+    },
+    "48": {
+        "name": "Stretch Zone Omaha",
+        "gmapsUrl": "https://www.google.com/maps/place/16920+Wright+Plaza+%2c+Elkhorn+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/stretch-zone-omaha-2031354",
+        "phone": "4028858805",
+        "address": "16920 Wright Plaza, Elkhorn, NE 68130",
+        "website": "https://www.stretchzone.com/locations/",
+        "description": "Increase mobility and muscle function! ",
+        "categories": [
+            "Fitness, Health & Recreation"
+        ]
+    },
+    "49": {
+        "name": "StretchLab Elkhorn",
+        "gmapsUrl": "https://www.google.com/maps/place/20110+Pierce+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/stretchlab-elkhorn-2166411",
+        "phone": "5312384004",
+        "address": "20110 Pierce Street, Omaha, NE 68130",
+        "website": "http://elkhorn@stretchlab.com/",
+        "description": "",
+        "categories": [
+            "Fitness, Health & Recreation"
+        ]
+    },
+    "50": {
+        "name": "The Exercise Coach",
+        "gmapsUrl": "https://www.google.com/maps/place/3525+North+147th+Street%2c+Unit+203+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/the-exercise-coach-1966964",
+        "phone": "4022524586",
+        "address": "3525 North 147th Street, Unit 203, Omaha, NE 68116",
+        "website": "http://www.exercisecoach.com/",
+        "description": "Have 20 minutes? We have a Northwest Location for you!",
+        "categories": [
+            "Fitness, Health & Recreation"
+        ]
+    },
+    "51": {
+        "name": "Tiburon Golf Club",
+        "gmapsUrl": "https://www.google.com/maps/place/10302+South+168th+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/tiburon-golf-club-583579",
+        "phone": "4028952688",
+        "address": "10302 South 168th Street, Omaha, NE 68136-1903",
+        "website": "http://www.tiburongolf.com/",
+        "description": "",
+        "categories": [
+            "Country Clubs & Golf Courses",
+            "Sports & Recreation"
+        ]
+    },
+    "52": {
+        "name": "Topgolf USA ",
+        "gmapsUrl": "https://www.google.com/maps/place/908+North+102nd+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/topgolf-usa-813460",
+        "phone": "5318676165",
+        "address": "908 North 102nd Street, Omaha, NE 68114",
+        "website": "http://www.topgolf.com/",
+        "description": "Play. Eat. Drink. Party. Groups welcome!",
+        "categories": [
+            "Fitness, Health & Recreation",
+            "Parks/Sports Facilities",
+            "Sporting Goods",
+            "Sports & Recreation"
+        ]
+    },
+    "53": {
+        "name": "TreeRush Adventures at Fontenelle Forest",
+        "gmapsUrl": "https://www.google.com/maps/place/1111+Bellevue+Boulevard+North+Suite+A+%2c+Bellevue+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/treerush-adventures-at-fontenelle-forest-660887",
+        "phone": "4023167035",
+        "address": "1111 Bellevue Boulevard North Suite A, Bellevue, NE 68005",
+        "website": "http://treerush.com/",
+        "description": "Climb, Zip & Swing through the treetops at TreeRush Adventures at Fontenelle Forest.",
+        "categories": [
+            "Sports & Recreation",
+            "Fitness, Health & Recreation",
+            "Parks/Sports Facilities"
+        ]
+    },
+    "54": {
+        "name": "Union Omaha",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/union-omaha-839262",
+        "phone": "4028848040",
+        "address": "",
+        "website": "http://www.unionomaha.com/",
+        "description": "Union Omaha Soccer or Alliance Omaha Soccer  -  same thing and same team! ",
+        "categories": [
+            "Arts, Culture & Entertainment",
+            "Sports & Recreation"
+        ]
+    },
+    "55": {
+        "name": "Urban Air Adventure Park",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/urban-air-adventure-park-585789",
+        "phone": "4029150110",
+        "address": "",
+        "website": "http://urbanairomaha.com/",
+        "description": "",
+        "categories": [
+            "Entertainment",
+            "Arts, Culture & Entertainment",
+            "Event Venues",
+            "Fitness, Health & Recreation"
+        ]
+    },
+    "56": {
+        "name": "Van Wall Equipment, Inc.",
+        "gmapsUrl": "",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/van-wall-equipment-inc-1713896",
+        "phone": "4028911024",
+        "address": "",
+        "website": "http://vanwall.com/",
+        "description": "",
+        "categories": [
+            "Sporting Goods",
+            "Sports & Recreation",
+            "Transportation",
+            "Trucking"
+        ]
+    },
+    "57": {
+        "name": "Victress",
+        "gmapsUrl": "https://www.google.com/maps/place/1314+North+205th+Street+%2c+Omaha+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/victress-2004138",
+        "phone": "4028903537",
+        "address": "1314 North 205th Street, Omaha, NE 68022",
+        "website": "http://victressoma.com/",
+        "description": "Women's Strength and Conditioning! ",
+        "categories": [
+            "Fitness, Health & Recreation"
+        ]
+    },
+    "58": {
+        "name": "Vireo Resources",
+        "gmapsUrl": "https://www.google.com/maps/place/461+Wiles+Road+%2c+Plattsmouth+NE",
+        "omahachamberUrl": "//your.omahachamber.org/directory/Details/vireo-resources-585440",
+        "phone": "4022125935",
+        "address": "461 Wiles Road, Plattsmouth, NE 68048",
+        "website": "http://www.vireosystems.com/",
+        "description": "",
+        "categories": [
+            "Manufacturing & Production",
+            "Fitness, Health & Recreation",
+            "Nutrition & Supplements"
+        ]
+    }
+}
